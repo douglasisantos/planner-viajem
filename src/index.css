@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* para controlar a largura como quiser selecionando todos os elementos do css */
+*{
+  min-width :0;
+}
